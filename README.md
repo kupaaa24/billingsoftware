@@ -4,10 +4,10 @@
 This project is a Grocery ERP Software developed in Python, designed to enhance the shopping experience by enabling customers to self-bill items. The software significantly reduces queue times and streamlines the billing process, making it ideal for use in malls and retail environments.
 
 ## Features
--*Self-Billing* : Customers can scan items and generate bills independently.
--*User-Friendly Interface*: Simple, intuitive design that requires minimal user training.
--*Queue Reduction*: Reduces wait times by allowing customers to self-checkout.
--*Enhanced Shopping Experience*: Improves customer satisfaction by making the checkout process quicker and more convenient.
+- **Self-Billing**: Customers can scan items and generate bills independently.
+- **User-Friendly Interface**: Simple and intuitive design.
+- **Queue Reduction**: Reduces wait times by allowing customers to self-checkout.
+- **Enhanced Shopping Experience**: Improves customer satisfaction.
 
 ## Technology Stack
 *Programming Language*: Python
