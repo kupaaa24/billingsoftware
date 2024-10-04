@@ -50,6 +50,5 @@ python billingsoftware.py
 - **Inventory Management**: Adding inventory tracking features to automatically update stock levels.
 
 ### view project in 
-```bash
 https://youtu.be/5I5pqiEryG8
 
