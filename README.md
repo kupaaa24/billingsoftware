@@ -26,8 +26,12 @@ This project is a Grocery ERP Software developed in Python, designed to enhance 
   ```bash
   git clone https://github.com/kupaaa24/billingsoftware
   
-- **Navigate to the project directory** : ```cd billingsoftware
-- **Install the required libraries** :```pip install pandas
+- **Navigate to the project directory** :
+  ```bash
+  cd billingsoftware
+- **Install the required libraries** :
+  ```bash
+  pip install pandas
 
 
 ## Run the application:
