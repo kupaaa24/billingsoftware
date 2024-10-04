@@ -10,8 +10,9 @@ This project is a Grocery ERP Software developed in Python, designed to enhance 
 - **Enhanced Shopping Experience**: Improves customer satisfaction.
 
 ## Technology Stack
-*Programming Language*: Python
-*Tools/Frameworks*: Tkinter (for GUI), SQLite (for database management)
+- **Programming Language**: Python
+- **Tools/Frameworks**: Tkinter (for GUI), SQLite (for database management)
+
 
 ## Libraries Used
 - **Tkinter**: For creating the graphical user interface.
@@ -20,10 +21,11 @@ This project is a Grocery ERP Software developed in Python, designed to enhance 
 
 
 ## Installation
--**Clone this repository to your local machine**: git clone https://github.com/kupaaa24/billingsoftware
--**Navigate to the project directory**:  cd billingsoftware
--**Install the required libraries**: pip install pandas
-(Tkinter and SQLite are included in standard Python installations.)
+
+- **Clone this repository to your local machine**:
+  ```bash
+  git clone https://github.com/kupaaa24/billingsoftware
+
 
 ## Run the application:
 python billingsoftware.py
