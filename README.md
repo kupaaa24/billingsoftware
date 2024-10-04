@@ -13,10 +13,11 @@ This project is a Grocery ERP Software developed in Python, designed to enhance 
 *Programming Language*: Python
 *Tools/Frameworks*: Tkinter (for GUI), SQLite (for database management)
 
-## Libraries Used:
--**Tkinter**: For creating the graphical user interface.
--**SQLite3**: For managing the billing database.
--**Pandas**: For handling and manipulating data.
+## Libraries Used
+- **Tkinter**: For creating the graphical user interface.
+- **SQLite3**: For managing the billing database.
+- **Pandas**: For handling and manipulating data.
+
 
 ## Installation
 -**Clone this repository to your local machine**: git clone https://github.com/kupaaa24/billingsoftware
@@ -28,7 +29,6 @@ This project is a Grocery ERP Software developed in Python, designed to enhance 
 python billingsoftware.py
 
 ## Usage
-
 1. **Launch the application.**
 2. **Select items**: The items will automatically be added to the billing list.
 3. **Review the bill** and generate the final bill.
@@ -36,6 +36,7 @@ python billingsoftware.py
 
 
 ## Future Enhancements
--**Integration with POS systems**: Further integration with existing POS infrastructure in large stores.
--**Mobile App Compatibility**: Extend the functionality to mobile platforms.
--**Inventory Management**: Adding inventory tracking features to automatically update stock levels.
+- **Integration with POS systems**: Further integration with existing POS infrastructure in large stores.
+- **Mobile App Compatibility**: Extend the functionality to mobile platforms.
+- **Inventory Management**: Adding inventory tracking features to automatically update stock levels.
+
