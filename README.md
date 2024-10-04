@@ -49,3 +49,7 @@ python billingsoftware.py
 - **Mobile App Compatibility**: Extend the functionality to mobile platforms.
 - **Inventory Management**: Adding inventory tracking features to automatically update stock levels.
 
+### view project in 
+```bash
+https://youtu.be/5I5pqiEryG8
+
